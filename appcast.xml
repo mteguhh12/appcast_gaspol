@@ -3,7 +3,7 @@
     <channel>
         <title>Debt Now App - Appcast</title>
         <item>
-            <title>Version 1.5.34</title>
+            <title>Version 1.5.33</title>
             <description>desc</description>
             <pubDate>Minggu, 05 Feb 2023 12:00:00 +0000</pubDate>
             <enclosure url="https://play.google.com/store/apps/details?id=id.co.gaspol.consumer" sparkle:version="1.5.33" sparkle:os="android" />
